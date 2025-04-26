@@ -1,4 +1,4 @@
-# Convert .stl into .json as a mesh data
+# Convert .stl into .json as a polygonal mesh data
 
 This small project was created to easify 3D object creation in some other software.
 
