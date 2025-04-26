@@ -1,6 +1,6 @@
 # Convert .stl into .json as a polygonal mesh data
 
-This small project was created to easify 3D object creation in some other software.
+This small project was created to easify 3D object creation in software which cant directly load from stl (mostly scripts).
 
 Its easily rebuilds surfaces while removing triangulation.
 
