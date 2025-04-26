@@ -2,10 +2,12 @@
 
 This small project was created to easify 3D object creation in some other software.
 
+Its easily rebuilds surfaces while removing triangulation.
+
 ## Features:
-- Extract vertices/edges from a given ".STL" file.
-- Export data into json.
-- Fast convert via drag-n-drop.
+- Extract vertices/edges from a given ".STL" file surfaces;
+- Export data into json;
+- Fast drag-n-drop action.
 
 ![](https://i.ibb.co/qYDmx5TK/stl-demo1.gif[/img])
 
