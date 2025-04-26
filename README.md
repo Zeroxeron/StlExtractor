@@ -18,3 +18,13 @@ The exported json data then can be used later to rebuild things.
 Right here we used the data to rebuild the car mesh in a **Storybrew editor**:
 
 ![](https://i.ibb.co/XZ72Jc4h/stl-demo2.gif[/img])
+
+## Data structure:
+
+The converted data is represented as a basic json structure:
+
+`{`
+`"vertices":[[x1,y1,z1], [x2,y2,z2],...],`
+`"lines":[(v1,v2), (v3,v4)...]`
+`}`
+
