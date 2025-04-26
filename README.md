@@ -25,6 +25,6 @@ The converted data is represented as a basic json structure:
 
 `{`
 `"vertices":[[x1,y1,z1], [x2,y2,z2], ...],`
-`"lines":[(v1,v2), (v3,v4), ...]`
+`"lines":[[v1,v2], [v3,v4], ...]`
 `}`
 
