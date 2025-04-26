@@ -2,7 +2,7 @@
 
 This small project was created to easify 3D object creation in software which cant directly load from stl (mostly scripts).
 
-Its easily rebuilds surfaces while removing triangulation.
+It easily rebuilds surfaces while removing triangulation.
 
 ## Features:
 - Extract vertices/edges from a given ".STL" file surfaces;
